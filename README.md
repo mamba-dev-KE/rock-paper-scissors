@@ -1,6 +1,6 @@
 # Program Name
 
-Code challenge to refresh on JavaScript ES6 - A game to play rock paper scissors with a computer
+Code challenge to refresh on JavaScript ES6 - A game to play rock paper scissors with a computer opponent
 
 ## Technologies
 The project was created using:
