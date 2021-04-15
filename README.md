@@ -7,4 +7,12 @@ The project was created using:
 * Javascript ES6
 
 ## Launch/Setup 
-To run the program use a browser console or an online IDE such as replit.com and provide the desired input.
+Best options to run the script:
+* Use a browser console.
+* Use an online IDE such as replit.com
+* Install node and use it to run the script as shown below:
+
+```
+$ cd ../folder
+$ node filename.js
+```
